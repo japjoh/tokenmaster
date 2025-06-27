@@ -17,9 +17,9 @@ const Navigation = ({ account, setAccount }) => {
         <ul className='nav__links'>
           <li><a href="/">Concerts</a></li>
           <li><a href="/">Sports</a></li>
-          <li><a href="/">Arts & Theater</a></li>
+          <li><a href="https://www.bekonta.com" target='_blank'>Bekonta (Buy & Sell Crypto)</a></li>
           <li><a href="https://www.hebron1.com" target='_blank'>Hebron one</a></li>
-          <li><a href="/">More</a></li>
+          <li><a href="/">Contact Us</a></li>
         </ul>
       </div>
 
